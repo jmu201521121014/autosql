@@ -1,0 +1,4 @@
+
+SELECT * FROM mj_game_step_trace_log_8 WHERE op_time> 1629385200 AND op_time< 1629453540 AND uid in ( 'y41ojf43bu2p') AND pt between 20210819 and 20210819 ;
+SELECT * FROM mj_game_step_trace_log_8 WHERE op_time> 1629385200 AND op_time< 1629453540 AND uid in ( 'y41ojf43bu2p') AND pt between 20210819 and 20210819 ;
+SELECT * FROM mj_game_step_trace_log_8 WHERE op_time> 1629385200 AND op_time< 1629453540 AND uid in ( 'y41ojf43bu2p') AND pt between 20210819 and 20210819 ;

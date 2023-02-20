@@ -1,0 +1,8 @@
+SELECT * FROM mj_game_step_trace_log_8 WHERE op_time>1616428800 AND op_time<1616515199 AND step_id in(1055) AND udid in ('183a84ef5758ee90') ;
+SELECT * FROM mj_game_step_trace_log_8 WHERE op_time>1616428800 AND op_time<1616515199 AND step_id in(1055) AND udid in ('183a84ef5758ee90') ;
+SELECT * FROM mj_game_step_trace_log_8 WHERE op_time>1616428800 AND op_time<1616515199 AND step_id in(1055) AND udid in ('183a84ef5758ee90') ;
+SELECT * FROM mj_game_step_trace_log_8 WHERE op_time>1616428800 AND op_time<1616515199 AND udid in ('183a84ef5758ee90') ;
+SELECT * FROM mj_game_step_trace_log_8 WHERE op_time>1616428800 AND op_time<1616515199 AND udid in ('183a84ef5758ee90') ;
+SELECT * FROM mj_game_step_trace_log_8 WHERE op_time>1616428800 AND op_time<1616515199 AND step_id in(1000) AND udid in ('183a84ef5758ee90') ;
+SELECT * FROM mj_game_step_trace_log_8 WHERE op_time>1616428800 AND op_time<1616515199 AND udid in ('183a84ef5758ee90') ;
+SELECT * FROM mj_game_step_trace_log_8 WHERE op_time>1616428800 AND op_time<1616515199 AND step_id in(1000) AND udid in ('183a84ef5758ee90') ;
